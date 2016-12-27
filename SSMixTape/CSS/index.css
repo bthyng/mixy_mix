@@ -47,7 +47,7 @@ img {
 }
 
 body {
-    background:lavenderblush;
+    background:white;
 }
 
 @media (min-width:30em) {
@@ -68,7 +68,7 @@ body {
 }
 
     body {
-        background:lightgreen;
+        background:white;
     }
     .column,
     .columns {
